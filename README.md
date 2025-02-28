@@ -8,7 +8,6 @@
 
 - 🛠 **Tool Development** – Crafting offensive tooling for red team operations.
 - 🔍 **Vulnerability Research** – Finding security flaws and sharing knowledge through blogs and research.
-- 🔐 **Cybersecurity Content Creation** – Sharing knowledge through blogs and research.
 
 ## 📜 Featured Research
 
@@ -18,9 +17,9 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 ## 🛠 Projects & Tools
 
-🔹 **[RustyMalware](https://github.com/RustyMalware)** – A repository featuring Rust malware code snippets.
+🔹 **[RustyMalware](https://github.com/ncerne00/RustyMalware)** – A repository featuring Rust malware code snippets.
 
-🔹 **[BadUSB](https://github.com/RustyMalware)** – C++ snippets to turn an Arduino into a USB rubber ducky.
+🔹 **[BadUSB](https://github.com/ncerne00/RustyMalware)** – C++ snippets to turn an Arduino into a USB rubber ducky.
 
 ## I ❤️ to Work With
 
