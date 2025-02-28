@@ -18,7 +18,8 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 ## 🛠 Projects & Tools
 
-🔹 **[RustyMalware](https://github.com/RustyMalware)** – A repository featuring Rust malware code snippets. 
+🔹 **[RustyMalware](https://github.com/RustyMalware)** – A repository featuring Rust malware code snippets.
+
 🔹 **[BadUSB](https://github.com/RustyMalware)** – C++ snippets to turn an Arduino into a USB rubber ducky.
 
 ## I ❤️ to Work With
@@ -40,3 +41,4 @@ Check out my research where I identified a high-severity vulnerability in a smar
 ---
 
 💻 **"Hack the planet."**
+
