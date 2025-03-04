@@ -21,6 +21,8 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 🔹 **[BadUSB](https://github.com/ncerne00/RustyMalware)** – C++ snippets to turn an Arduino into a USB rubber ducky.
 
+🔹 **[C2Automation](https://github.com/ncerne00/C2Automation)** – Automating managing C2 infrastructure deployments.
+
 ## I ❤️ to Work With
 
 <div display="flex">
