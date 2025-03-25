@@ -23,6 +23,8 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 🔹 **[C2Automation](https://github.com/ncerne00/C2Automation)** – Automating managing C2 infrastructure deployments.
 
+🔹 **[nrcerne-site](https://github.com/ncerne00/nrcerne-site)** – A next.js personal blog with MDX integration. 
+
 ## I ❤️ to Work With
 
 <div display="flex">
