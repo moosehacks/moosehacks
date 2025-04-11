@@ -15,6 +15,8 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 🔗 **[Bishop Fox Blog](https://bishopfox.com/blog/methodology-for-traeger-grill-hack)**
 
+Check out my research on malware development in Rust!
+
 ## 🛠 Projects & Tools
 
 🔹 **[RustyMalware](https://github.com/ncerne00/RustyMalware)** – A repository featuring Rust malware code snippets.
@@ -23,7 +25,9 @@ Check out my research where I identified a high-severity vulnerability in a smar
 
 🔹 **[C2Automation](https://github.com/ncerne00/C2Automation)** – Automating managing C2 infrastructure deployments.
 
-🔹 **[nrcerne-site](https://github.com/ncerne00/nrcerne-site)** – A next.js personal blog with MDX integration. 
+🔹 **[nrcerne-site](https://github.com/ncerne00/nrcerne-site)** – A next.js personal blog with MDX integration.
+
+🔹 **[pizzaware](https://github.com/ncerne00/pizzaware)** – Malware designed to coerce your friends into buying you a pizza 🍕. 
 
 ## I ❤️ to Work With
 
