@@ -1,4 +1,4 @@
-# 👾 Nick Cerne
+# 👾 Nick
 
 **Application Security | IoT**
 
